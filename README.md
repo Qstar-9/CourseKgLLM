@@ -146,7 +146,7 @@ pip install -r requirements.txt
      python build_kg.py 
      ```
 
-     ![1746758306021](image/README/1746758306021.png)
+![1746758621280](image/README/neo4j.png)
 
 
 
@@ -173,7 +173,11 @@ pip install -r requirements.txt
    python main.py
    ```
 
-![1746758621280](image/README/1746758621280.png)
+![1746758621280](image/README/login.png)
+![1746758621280](image/README/chat.png)
+![1746758621280](image/README/history.png)
+![1746758621280](image/README/jsneo4j.png)
+
 
 ---
 
